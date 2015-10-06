@@ -83,11 +83,11 @@ a.link:hover {
 }
 
 div h5 {
-	font-size: 2em;
+	font-size: 1em;
 	color: white;
 	text-align: left;
 	margin-top: 150px;
-	margin-left: 100px;
+	margin-left: 80px;
 	font-family: Palatino;
 	text-decoration: none;
 }
