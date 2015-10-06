@@ -1,12 +1,12 @@
 body {
-	background-image: url("http://www.tapeta-pelen-gwiazd-kosmos.na-telefon.org/pokaz_obrazek.php?adres=pelen-gwiazd-kosmos&rozdzielczosc=1920x1080");
+	background-image: url("http://dreamatico.com/data_images/space/space-3.jpg");
 	background-repeat: no-repeat;
-    background-position: center;
-    background-color:#81F7F3;
-    min-height: 100%;
-    background-size: cover;
-    background-attachment: fixed;
-    z-index: 1;
+	background-position: center;
+	background-color:#81F7F3;
+	min-height: 100%;
+	background-size: cover;
+	background-attachment: fixed;
+	z-index: 1;
 }
 
 body h1 {
@@ -20,6 +20,7 @@ body h1 {
 
 body p {
 	color: white;
+	margin: auto;
 	margin-left: 280px;
 	margin-right:280px;
 	margin-top: 30px;
@@ -27,7 +28,7 @@ body p {
 }
 
 #box {
-	width: 1000px;
+	width: 850px;
 	height: 800px;
 	margin: auto;
 	margin-bottom: 100px;
@@ -38,7 +39,7 @@ body p {
 }
 
 #box2 {
-	width: 1000px;
+	width: 850px;
 	height: 800px;
 	margin: auto;
 	margin-bottom: 100px;
