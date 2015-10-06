@@ -10,7 +10,7 @@ body {
 }
 
 body h1 {
-	font-size: 4em;
+	font-size: 5em;
 	color: white;
 	text-align: center;
 	font-family: Palatino;
@@ -65,7 +65,7 @@ body p {
 }
 
 a.link:hover {
-	color: #81F7D8;
+	color: #009999;
 }
 
 .game {
