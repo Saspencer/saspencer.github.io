@@ -10,7 +10,7 @@ body {
 }
 
 body h1 {
-	font-size: 5em;
+	font-size: 4em;
 	color: white;
 	text-align: center;
 	font-family: Palatino;
@@ -55,7 +55,7 @@ body p {
 	color: white;
 	text-align:center;
 	z-index: 2;
-	margin-top:-900px;
+	margin-top:-890px;
 	word-spacing: 10px;
 }
 
