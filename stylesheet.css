@@ -21,9 +21,10 @@ body h1 {
 body p {
 	color: white;
 	margin: auto;
-	margin-left: 390px;
-	margin-right:390px;
+	margin-left: auto;
+	margin-right:auto;
 	margin-top: 30px;
+	width: 6em;
 	font-size: 1.5em;
 }
 
